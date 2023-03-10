@@ -1,9 +1,0 @@
-.resources__link_img {
-  width: 270px;
-  height: 38px;
-}
-
-.resources__link_img:hover {
-  transition: 1s;
-  opacity: 0.6;
-}
