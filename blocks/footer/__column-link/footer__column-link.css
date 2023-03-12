@@ -5,6 +5,7 @@
     margin: 0 0 10px;
     color: white;
     text-decoration: none;
+    transition: 1s;
 }
 
 .footer__column-link:nth-of-type(3n) {
@@ -12,6 +13,5 @@
 }
 
 .footer__column-link:hover {
-    transition: 1s;
     opacity: 0.6;
 }
